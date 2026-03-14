@@ -23,6 +23,18 @@ A static website was deployed and made accessible via the EC2 public IP address.
 
 ---
 
+## Architecture
+
+User Browser
+     ↓
+Internet
+     ↓
+AWS EC2 Instance
+     ↓
+Nginx Web Server
+     ↓
+Static Website
+
 ## Key Skills Demonstrated
 
 - Launching and managing EC2 instances
