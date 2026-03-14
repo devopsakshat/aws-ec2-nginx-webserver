@@ -38,6 +38,16 @@ A static website was deployed and made accessible via the EC2 public IP address.
 The website was successfully deployed and served through an Nginx web server running on an AWS EC2 instance.
 
 ---
+## Screenshots
+
+### EC2 Instance Running
+![EC2 Instance](screenshots/ec2-instance-running.png)
+
+### Nginx Running on Server
+![Nginx](screenshots/nginx-running.png)
+
+### Website Live
+![Website](screenshots/website-live.png)
 
 ## Future Improvements
 
